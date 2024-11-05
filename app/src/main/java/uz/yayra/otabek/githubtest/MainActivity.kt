@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             GitHubTestTheme {
-                Text("3")
+                Text("4")
             }
         }
     }
